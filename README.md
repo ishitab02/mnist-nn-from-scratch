@@ -17,4 +17,4 @@ This project implements a simple neural network from scratch using only **NumPy*
 - **Training Details**:
   
    - Optimization: Mini-batch Gradient Descent
-   - The network uses **ReLU activation** in the hidden layer and **Softmax activation** in the output layer.
+   - The network uses **ReLU activation function** in the hidden layer and **Softmax activation function** in the output layer.
